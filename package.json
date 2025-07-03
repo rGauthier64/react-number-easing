@@ -1,6 +1,6 @@
 {
   "name": "react-number-easing",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React component to interpolate rendering of numbers in the frontend.",
   "main": "src/index.js",
   "scripts": {
